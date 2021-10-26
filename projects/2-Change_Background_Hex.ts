@@ -9,7 +9,7 @@ hexDiv.style.flexFlow = "row wrap";
 hexDiv.style.justifyContent = "center";
 hexDiv.style.alignItems = "center";
 hexDiv.style.width = "100%";
-hexDiv.style.marginTop = "40%";
+hexDiv.style.marginTop = "4%";
 
 const hexPrefix = document.createElement("span") as HTMLSpanElement;
 hexPrefix.innerText = "HEX COLOR: #";
