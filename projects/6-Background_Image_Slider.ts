@@ -18,8 +18,9 @@ slider.style.width = "80%";
 slider.style.height = "60%";
 slider.style.display = "flex";
 slider.style.alignItems = "center";
-slider.style.backgroundSize = "cover";
+slider.style.backgroundSize = "100% 100%"; // "cover";
 slider.style.backgroundPosition = "center";
+
 
 positionDiv.style.display = "flex";
 positionDiv.style.justifyContent = "space-between";
